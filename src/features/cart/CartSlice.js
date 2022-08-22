@@ -3,7 +3,7 @@ import {createSlice} from "@reduxjs/toolkit"
 //shopping cart
 const initialState = {
     cartItems:[],
-    amount:0,
+    amount:5,
     total:0,
 }
 
